@@ -1,0 +1,1 @@
+docker run -v {path to the replicadb.conf}:/home/replicadb/conf/replicadb.conf osalvador/replicadb
